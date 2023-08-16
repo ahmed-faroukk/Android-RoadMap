@@ -41,15 +41,57 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
 <h2>
   content
 </h2>
-  <li>The basic syntax of Kotlin</li>
-<li>Null safety concept</li>
-<li>Looping</li>
-<li>Functions and different types of them <em>inline, infix, extension, etc.</em></li>
-<li>Types in Kotlin</li>
-<li>Companion objects</li>
-<li>Higher-order functions</li>
-<li>Operations on collections <em>filter, map etc.</em></li>
-<li>Generics</li>
+  <h3>Introduction
+</h3>
+<li>Hello World
+</li>
+<li>Functions
+</li>
+<li>Variables</em></li>
+<li>Null Safety
+</li>
+<li>Classes
+</li>
+<li>Generics
+</li>
+<li>Inheritance
+</li>
+<h3>
+  Control Flow
+</h3>
+<li>When
+</li>
+<li>Loops
+</li>
+<li>Ranges
+</em></li>
+<li>Equality Checks
+</li>
+<li>Conditional Expression
+</li>
+
+<h3>
+  Special Classes
+</h3>
+<li>Data Classes
+</li>
+<li>Enum Classes
+</li>
+<li>Sealed Classes
+</em></li>
+<li>Object Keyword
+
+<h3>
+ Functional
+
+</h3>
+<li>Higher-Order Functions
+</li>
+<li>Lambda Functions
+</li>
+<li>Extension Functions and Properties
+
+
 
 <h2>Resources</h2>
 <code>Arabic:</code></h4>
