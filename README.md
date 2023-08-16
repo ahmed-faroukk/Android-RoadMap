@@ -12,3 +12,54 @@ With over 3 billion Android devices all over the world including:
 ⌚ Smartwatches,
 🚗 Cars and more)
 in the hands of 2.5 billion users, it has become essential for companies to develop Android apps for their services.</p>
+ 
+ 
+ #  Levels is.....
+ <ul>
+
+<li>
+Basic level
+</li>
+
+<li>
+Intermidate level
+</li>
+<li>
+Advanced advanced
+</li>
+</ul>
+
+# we will start with basic level
+ 
+<ul>
+
+<li>
+  kotlin 
+</li>
+<h2>so why kotlin ...</h2>
+After Google I/O 2017 where Google announced first-class support for Kotlin on Android, Kotlin has become used by more and more Android developers and now it's used by over 60% of professional Android developers, for that each Android developer must learn it. <a href="https://developer.android.com/kotlin" rel="nofollow">Learn More</a>
+<h2>
+  content
+</h2>
+  <li>The basic syntax of Kotlin</li>
+<li>Null safety concept</li>
+<li>Looping</li>
+<li>Functions and different types of them <em>inline, infix, extension, etc.</em></li>
+<li>Types in Kotlin</li>
+<li>Companion objects</li>
+<li>Higher-order functions</li>
+<li>Operations on collections <em>filter, map etc.</em></li>
+<li>Generics</li>
+
+<h2>Resources</h2>
+<code>Arabic:</code></h4>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ" rel="nofollow">Check this playlist</a> to video no. 39</li>
+</ul>
+<br>
+  <code>English:</code></h4>
+<ul dir="auto">
+<li><a href="https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011" rel="nofollow">Check this course (Udacity)</a> <em>(recommended)</em>
+or
+<a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh" rel="nofollow">this playlist</a>
+</ul>
