@@ -90,6 +90,30 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
 <li>Lambda Functions
 </li>
 <li>Extension Functions and Properties
+</li>
+<h3>Collections
+</h3>
+<li>List
+</li>
+<li>Set
+</li>
+<li>Map
+ </li>
+<li>filter
+ </li>
+<li>map
+<h3>Scope Functions</h3>
+<li>let
+
+</li>
+<li>run
+</li>
+<li>with
+ </li>
+<li>apply
+ </li>
+<li>also</li>
+
 
 
 
