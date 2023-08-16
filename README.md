@@ -34,7 +34,10 @@ Advanced advanced
 <ul>
 
 <li>
-  kotlin 
+ <h1>
+  1- kotlin
+ </h1>
+   
 </li>
 <h2>so why kotlin ...</h2>
 After Google I/O 2017 where Google announced first-class support for Kotlin on Android, Kotlin has become used by more and more Android developers and now it's used by over 60% of professional Android developers, for that each Android developer must learn it. <a href="https://developer.android.com/kotlin" rel="nofollow">Learn More</a>
@@ -118,6 +121,12 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
 
 
 <h2>Resources</h2>
+ <code>official Docs:</code></h4>
+<ul dir="auto">
+<li><a href="https://kotlinlang.org/docs/home.html" rel="nofollow">here</a> <em>(recommended)</em>
+</li>
+</ul>
+ <br>
 <code>Arabic:</code></h4>
 <ul dir="auto">
 <li><a href="https://www.youtube.com/playlist?list=PLF8OvnCBlEY2w-zdVPozupapiKzLzpyUZ" rel="nofollow">Check this playlist</a> to video no. 39</li>
