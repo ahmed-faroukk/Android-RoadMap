@@ -179,7 +179,7 @@ or
 <br>
 
 
-<h2> 3- Now you are ready to build user interface using xml and write some java code at android studio.</h2>
+<h2>3- Now you are ready to build user interface using xml and write some java code at android studio.</h2>
 <code>Android Basics: User Interface:</code></h4>
 <ul dir="auto">
 <li><a href="https://youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku"  rel="nofollow">Check this playlist</a> to video no. 42</li>
