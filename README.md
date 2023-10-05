@@ -29,8 +29,15 @@ Advanced advanced
 </li>
 </ul>
 
-# we will start with basic level
- 
+
+ <hr width="100%" color="yellow" size="3">
+<div align="center"> <h1> 🔴 we will start with basic level</h1> </div>
+<hr width="100%" color="yellow" size="3">
+
+
+
+
+
 <ul>
 
 <li>
@@ -120,9 +127,6 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
  </li>
 <li>also</li>
 
-
-
-
 <h2>Resources</h2>
  <code>official Docs:</code></h4>
 <ul dir="auto">
@@ -141,16 +145,58 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
 or
 <a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh" rel="nofollow">this playlist</a>
 </ul>
-<h2>Now you are ready to build user interface using xml and write some java code at android studio.</h2>
-<p dir="auto">Android Basics: User Interface ​ (due to 1 week)<br>
-<a href="https://mena.udacity.com/course/android-basics-user-interface--ud834" rel="nofollow">https://mena.udacity.com/course/android-basics-user-interface--ud834</a></p>
-</li>
-<li>
-<p dir="auto">Android Basics: XML <br>
-<a href="https://youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku"rel="nofollow">check first 42 video in this playlist</a>
-</p>
-</li>
-<li>
+<br>
+<br>
+
+
+
+
+<h2> 2- Object-Oriented Programming (OOP) Principles</h2>
+  <ul>
+    <li><strong>Classes and Objects:</strong> Dive into the fundamentals of creating classes and objects in Kotlin.</li>
+    <li><strong>Properties and Fields:</strong> Learn how to define properties and fields within classes.</li>
+    <li><strong>Constructors:</strong> Understand different types of constructors and how to use them.</li>
+    <li><strong>Inheritance:</strong> Explore inheritance and how to create subclasses.</li>
+    <li><strong>Polymorphism:</strong> Learn about polymorphism and method overriding in Kotlin.</li>
+    <li><strong>Interfaces and Abstract Classes:</strong> Study interfaces and abstract classes for defining contracts and shared behavior.</li>
+    <li><strong>Encapsulation:</strong> Understand the concept of encapsulation and access modifiers.</li>
+    <li><strong>Data Classes:</strong> Explore data classes for creating simple and immutable classes.</li>
+  </ul>
+
+
+
+<h2>Resources</h2>
+ 
+<code>Understanding OOP Principles:</code></h4>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/watch?v=fK2lLVqc8UY&list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1" rel="nofollow">Check this playlist</a></li>
+</ul>
+<br>
+  <code>Apply with kotlin :</code></h4>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLWBhA495dLiOoHVDB9hjZnRH6E8s7-Iy5" rel="nofollow">Check this course</a> 
+<br>
+<br>
+
+
+<h2> 3- Now you are ready to build user interface using xml and write some java code at android studio.</h2>
+<code>Android Basics: User Interface:</code></h4>
+<ul dir="auto">
+<li><a href="https://youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku"  rel="nofollow">Check this playlist</a> to video no. 42</li>
+<br>
+<br>
+
+
+ 
+<hr width="100%" color="yellow" size="3">
+<div align="center"> <h1>🟠 Intermediate Level</h1> </div>
+<hr width="100%" color="yellow" size="3">
+
+
+<br>
+<br>
+
+
 
 
 
