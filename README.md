@@ -146,13 +146,11 @@ or
 <a href="https://mena.udacity.com/course/android-basics-user-interface--ud834" rel="nofollow">https://mena.udacity.com/course/android-basics-user-interface--ud834</a></p>
 </li>
 <li>
-<p dir="auto">Android Basics: User Input ​ (due to 2 weeks)<br>
-<a href="https://mena.udacity.com/course/android-basics-user-input--ud836" rel="nofollow">https://mena.udacity.com/course/android-basics-user-input--ud836</a></p>
+<p dir="auto">Android Basics: XML <br>
+<a href="https://youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku"rel="nofollow">check first 42 video in this playlist</a>
+</p>
 </li>
 <li>
-<p dir="auto">Android Basics: Multiscreen Apps​ ​ (due to 1 Month)<br>
-<a href="https://mena.udacity.com/course/android-basics-multiscreen-apps--ud839" rel="nofollow">https://mena.udacity.com/course/android-basics-multiscreen-apps--ud839</a></p>
-</li>
-</ol>
-<p dir="auto">After you have learned to use Relative and Linear layout.. there is another amazing thing called <strong>Constraint layout</strong> to build a responsive layout<br>
-<a href="https://www.youtube.com/watch?v=4N4bCdyGcUc&amp;list=PLrnPJCHvNZuA80lNWNCLICR3qYzhw3iPI" rel="nofollow">check this playlist</a></p>
+
+
+
