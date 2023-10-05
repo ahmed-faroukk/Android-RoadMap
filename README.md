@@ -37,8 +37,11 @@ Advanced advanced
  <h1>
   1- kotlin
  </h1>
-   
+ <p></p> 
+  <img src="https://github.com/ahmed-faroukk/Android-RoadMap/assets/72602749/a9eaf84d-d37a-42d7-b7b9-f21c37fb7af8" alt="Android Cover" style="max-width: 100%;"></a>
+
 </li>
+
 <h2>so why kotlin ...</h2>
 After Google I/O 2017 where Google announced first-class support for Kotlin on Android, Kotlin has become used by more and more Android developers and now it's used by over 60% of professional Android developers, for that each Android developer must learn it. <a href="https://developer.android.com/kotlin" rel="nofollow">Learn More</a>
 <h2>
@@ -138,3 +141,18 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
 or
 <a href="https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh" rel="nofollow">this playlist</a>
 </ul>
+<h2>Now you are ready to build user interface using xml and write some java code at android studio.</h2>
+<p dir="auto">Android Basics: User Interface ​ (due to 1 week)<br>
+<a href="https://mena.udacity.com/course/android-basics-user-interface--ud834" rel="nofollow">https://mena.udacity.com/course/android-basics-user-interface--ud834</a></p>
+</li>
+<li>
+<p dir="auto">Android Basics: User Input ​ (due to 2 weeks)<br>
+<a href="https://mena.udacity.com/course/android-basics-user-input--ud836" rel="nofollow">https://mena.udacity.com/course/android-basics-user-input--ud836</a></p>
+</li>
+<li>
+<p dir="auto">Android Basics: Multiscreen Apps​ ​ (due to 1 Month)<br>
+<a href="https://mena.udacity.com/course/android-basics-multiscreen-apps--ud839" rel="nofollow">https://mena.udacity.com/course/android-basics-multiscreen-apps--ud839</a></p>
+</li>
+</ol>
+<p dir="auto">After you have learned to use Relative and Linear layout.. there is another amazing thing called <strong>Constraint layout</strong> to build a responsive layout<br>
+<a href="https://www.youtube.com/watch?v=4N4bCdyGcUc&amp;list=PLrnPJCHvNZuA80lNWNCLICR3qYzhw3iPI" rel="nofollow">check this playlist</a></p>
