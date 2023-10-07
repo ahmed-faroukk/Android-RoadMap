@@ -211,10 +211,11 @@ or
 
   <li>
     <h2>Fragments</h2>
-    <p>Lifecycle:
-      <a href="https://www.youtube.com/watch?v=fEmS9vEUqTE">Dive deep into the fragment lifecycle.</a>
+    <p>
+      <a href="https://www.youtube.com/watch?v=fEmS9vEUqTE">Lifecycle</a>
+     Dive deep into the fragment lifecycle.
     </p>
-    <p>Navigation Components: Learn to navigate between fragments using the Navigation Component.</p>
+    <p> <a href = "https://www.youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&si=vnq9KtRJfpdipru5"> Navigation Components:</a>  Learn to navigate between fragments using the Navigation Component.</p>
     <p>Using the Navigation graph</p>
     <p>Navigating between fragments</p>
     <p>Using Drawer layout and Bottom Navigation</p>
@@ -223,9 +224,9 @@ or
   </li>
 
   <li>
-    <h2>ViewModel Configuration</h2>
+    <h2><a href="https://www.youtube.com/watch?si=eaPUYHrD7QR_e30x&v=orH4K6qBzvE&feature=youtu.be">ViewModel Configuration</a></h2>
     <p>
-      <a href="https://www.youtube.com/watch?si=eaPUYHrD7QR_e30x&v=orH4K6qBzvE&feature=youtu.be">Configure ViewModel to manage UI-related data efficiently.</a>
+      Configure ViewModel to manage UI-related data efficiently.
     </p>
   </li>
 
@@ -239,17 +240,17 @@ or
   </li>
 
   <li>
-    <h2>Retrofit</h2>
+    <h2> <a href="https://www.youtube.com/watch?si=107qXZmGf1XKldB5&v=t6Sql3WMAnk&feature=youtu.be"> Retrofit </a> </h2>
     <p>
-      <a href="https://www.youtube.com/watch?si=107qXZmGf1XKldB5&v=t6Sql3WMAnk&feature=youtu.be">Learn how to make network requests using Retrofit for REST APIs.</a>
+     Learn how to make network requests using Retrofit for REST APIs.
     </p>
   </li>
 
   <li>
     <h2>Basics of Coroutines</h2>
     <p>Sources:
-      <a href="#">Source 1 (kotlin coroutines | 1.Intro)</a>
-      <a href="#">Source 2 (The Basics - Kotlin Coroutines)</a>
+      <a href="https://www.youtube.com/watch?v=9NyGOrztWjE&list=PLXjbGq0ERjFqGlzZFDMCHJA_PBvUIaIto">Source 1 </a>
+      <a href="https://www.youtube.com/watch?v=2QInrEaXyMo&list=PLSrm9z4zp4mE-o3sPq-PqzGHoFAIsQFI6">Source 2 </a>
     </p>
     <p>Introduction to Asynchronous Programming Coroutine Builders: Learn about common coroutine builders like launch and async.</p>
     <p>Suspend Functions</p>
