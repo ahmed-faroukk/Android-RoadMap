@@ -340,13 +340,13 @@ or
     <h2>Kotlin/Android Testing Playlists</h2>
     <p>YouTube Playlists:
       <ul>
-        <li><a href="#">Kotlin/Android Testing Playlist</a></li>
-        <li><a href="#">Testing on Android Playlist</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLEPx7DrqAqKCMGYKUxo2d0rkjo1SQqWoC">Kotlin/Android Testing Playlist</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSYJ13G4kVIJ10X5zisB2Lq">Testing on Android Playlist</a></li>
       </ul>
     </p>
     <p>Additional Resource:
       <ul>
-        <li>Android Unit Testing with Eng. Ahmed Adel</li>
+        <li> <a href = "https://www.youtube.com/watch?v=AmaHlsd4vUg&t=970s" >Android Unit Testing with Eng. Ahmed Adel</li>
       </ul>
     </p>
   </li>
