@@ -298,6 +298,89 @@ or
 <br>
 
 
+<ul>
+  <li>
+    <h2>Kotlin Coroutines</h2>
+    <p>Read more about Kotlin Coroutines: <a href="https://climbtheladder.com/kotlin-coroutines-interview-questions/">Interview Questions</a></p>
+  </li>
+
+  <li>
+    <h2>Dependency Injection with Hilt</h2>
+    <p>Sources:
+      <a href="https://www.youtube.com/watch?v=LHQp-mLQPnc">Source 1</a>
+      <a href="https://youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku">Source 2 (302 to 307)</a>
+    </p>
+    <p>Topics:
+      <ul>
+        <li>Setting up Hilt in Android projects</li>
+        <li>Using Hilt for dependency injection</li>
+        <li>Scopes and custom components</li>
+        <li>Qualifiers and multibindings</li>
+        <li>ViewModel injection with Hilt: <a href="https://youtu.be/bbMsuI2p1DQ">Video</a></li>
+      </ul>
+    </p>
+  </li>
+
+  <li>
+    <h2>Clean Architecture with MVVM</h2>
+    <p>Source: <a href="https://youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku">Source (309 to 319)</a></p>
+    <p>Topics:
+      <ul>
+        <li>Separation of concerns and clean architecture principles</li>
+        <li>Implementing a domain layer with use cases</li>
+        <li>Building data and presentation layers</li>
+        <li>Applying MVVM pattern with LiveData and ViewModel</li>
+        <li>Repository pattern for data access: <a href="https://www.youtube.com/watch?v=KxXUEZcelZM">Video</a></li>
+        <li>Dependency injection with Hilt in clean architecture</li>
+      </ul>
+    </p>
+  </li>
+
+  <li>
+    <h2>Kotlin/Android Testing Playlists</h2>
+    <p>YouTube Playlists:
+      <ul>
+        <li><a href="#">Kotlin/Android Testing Playlist</a></li>
+        <li><a href="#">Testing on Android Playlist</a></li>
+      </ul>
+    </p>
+    <p>Additional Resource:
+      <ul>
+        <li>Android Unit Testing with Eng. Ahmed Adel</li>
+      </ul>
+    </p>
+  </li>
+
+  <li>
+    <h2>SOLID Principles</h2>
+    <p>Source: <a href="https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV">SOLID Principles Playlist</a></p>
+    <p>Topics:
+      <ul>
+        <li>Single Responsibility Principle (SRP)</li>
+        <li>Open-Closed Principle (OCP)</li>
+        <li>Liskov Substitution Principle (LSP)</li>
+        <li>Interface Segregation Principle (ISP)</li>
+        <li>Dependency Inversion Principle (DIP)</li>
+      </ul>
+    </p>
+  </li>
+
+  <li>
+    <h2>Jetpack Compose Basics</h2>
+    <p>Source: <a href="https://youtube.com/playlist?list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc">Jetpack Compose Basics Playlist</a></p>
+    <p>Topics:
+      <ul>
+        <li>Introduction to Jetpack Compose</li>
+        <li>Building UI components with Compose</li>
+        <li>Navigation in Compose apps</li>
+        <li>Theming and styling with Compose</li>
+        <li>State management with Compose</li>
+        <li>Testing Compose UIs</li>
+        <li>Migrating from XML-based UI to Jetpack Compose</li>
+      </ul>
+    </p>
+  </li>
+</ul>
 
 
 
