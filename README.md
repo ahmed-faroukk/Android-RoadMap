@@ -6,12 +6,7 @@ A roadmap for android developers that can guide you from the very basics of the 
 
 <h2 tabindex="-1" dir="auto"><a id="user-content-green_book-why-should-you-learn-android-development" class="anchor" aria-hidden="true" href="#green_book-why-should-you-learn-android-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>📗 Why should you learn Android development?</h2>
 </a>
-With over 3 billion Android devices all over the world including:
-( 📱 Smartphones,
-📺 TVs,
-⌚ Smartwatches,
-🚗 Cars and more)
-in the hands of 2.5 billion users, it has become essential for companies to develop Android apps for their services.</p>
+With a global presence on over 3 billion Android devices, spanning smartphones 📱, TVs 📺, smartwatches ⌚, cars 🚗, and more, Android app development is indispensable for businesses looking to reach 3.6 billion users worldwide.</p>
  
  
  #  Levels is.....
@@ -195,6 +190,96 @@ or
 
 <br>
 <br>
+
+<ol>
+  <li>
+    <h2><a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSVDhww92llY3CAnc_vUhsm&si=REPoAQ-_AAw-i8BA">Android Basics </a></h2>
+    <p>Introduction to Android: Understand the basics of the Android ecosystem.</p>
+    <p>Activities:</p>
+    <p>Lifecycle: Master the lifecycle of Android activities.</p>
+    <p>Intents: Explore how to navigate between activities using intents.</p>
+    <p>Intent Filters: Understand how to handle implicit intents.</p>
+    <p>Android Components (services - BroadCasts - Content Provider)</p>
+    <p>Context: Understand the concept of Context and its various uses in Android.</p>
+    <p>Work Manager</p>
+    <p>Data Binding: Learn how to bind UI components to data sources efficiently.</p>
+    <p>Video Tutorials:
+      <a href="https://youtu.be/YQ9mGVOXXYA?si=cwVbJxE5fgPFqWC5">Video 1</a>
+      <a href="https://youtu.be/P2LZ-l5q0zM?si=oa5Q6SvJB23L-Ysr">Video 2</a>
+    </p>
+  </li>
+
+  <li>
+    <h2>Fragments</h2>
+    <p>Lifecycle:
+      <a href="https://www.youtube.com/watch?v=fEmS9vEUqTE">Dive deep into the fragment lifecycle.</a>
+    </p>
+    <p>Navigation Components: Learn to navigate between fragments using the Navigation Component.</p>
+    <p>Using the Navigation graph</p>
+    <p>Navigating between fragments</p>
+    <p>Using Drawer layout and Bottom Navigation</p>
+    <p>Using safe args</p>
+    <p>Watch this playlist from video no 261 to 271</p>
+  </li>
+
+  <li>
+    <h2>ViewModel Configuration</h2>
+    <p>
+      <a href="https://www.youtube.com/watch?si=eaPUYHrD7QR_e30x&v=orH4K6qBzvE&feature=youtu.be">Configure ViewModel to manage UI-related data efficiently.</a>
+    </p>
+  </li>
+
+  <li>
+    <h2>LiveData</h2>
+    <p>Implement LiveData for observing and updating UI components.</p>
+    <p>Sources:
+      <a href="https://www.youtube.com/watch?si=eaPUYHrD7QR_e30x&v=orH4K6qBzvE&feature=youtu.be">Source 1</a>
+      <a href="https://www.youtube.com/watch?si=tQy137cr1br0wJXV&v=suC0OM5gGAA&feature=youtu.be">Source 2</a>
+    </p>
+  </li>
+
+  <li>
+    <h2>Retrofit</h2>
+    <p>
+      <a href="https://www.youtube.com/watch?si=107qXZmGf1XKldB5&v=t6Sql3WMAnk&feature=youtu.be">Learn how to make network requests using Retrofit for REST APIs.</a>
+    </p>
+  </li>
+
+  <li>
+    <h2>Basics of Coroutines</h2>
+    <p>Sources:
+      <a href="#">Source 1 (kotlin coroutines | 1.Intro)</a>
+      <a href="#">Source 2 (The Basics - Kotlin Coroutines)</a>
+    </p>
+    <p>Introduction to Asynchronous Programming Coroutine Builders: Learn about common coroutine builders like launch and async.</p>
+    <p>Suspend Functions</p>
+    <p>Structured Concurrency</p>
+    <p>Cancellation and Timeouts</p>
+    <p>Exception Handling</p>
+  </li>
+
+  <li>
+    <h2>Coroutine Dispatchers</h2>
+    <p>Dispatcher Types: Learn about various dispatchers such as Dispatchers.IO, Dispatchers.Main, and Dispatchers.Default.</p>
+    <p>Switching Dispatchers: Understand how to switch between different dispatchers for concurrent tasks.</p>
+  </li>
+
+  <li>
+    <h2>MVVM Architecture</h2>
+    <p>Explore how to architect your Android app using the Model-View-ViewModel pattern.</p>
+    <p>Sources:
+      <a href="https://www.youtube.com/watch?v=-xTqfilaYow&pp=ygUNbXZ2bSBhbmRyb2lkIA%3D%3D">Source 1</a>
+    </p>
+    <p>Try to understand how this app built: <a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCRF8XiCRESq1IFFW8COlxYJ&si=0vGvLKI3UHDCSesl">Video Playlist</a></p>
+    <p>Article: <a href="https://www.linkedin.com/posts/ahmed-farouk-2b1899204_android-mvvm-ios-activity-6971177663654735872-FlQH?utm_source=share&utm_medium=member_desktop">MVVM Article</a></p>
+  </li>
+
+  <li>
+    <h2>Room</h2>
+    <p>Implement Room for local data persistence.</p>
+    <p>Source: <a href="https://www.youtube.com/playlist?list=PLSrm9z4zp4mEPOfZNV9O-crOhoMa0G2-o&si=ZfpGVJZVuJR_FAjt">Room Playlist</a></p>
+  </li>
+</ol>
 
 
 
