@@ -213,8 +213,7 @@ or
 
 <ol>
   <li>
-   <h2>Android Basics 
-   </h2><h5><a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSVDhww92llY3CAnc_vUhsm&si=REPoAQ-_AAw-i8BA">check this playlist </a></h5>
+   <h2>Android Basics </h2>
 
   <p><strong>Activities:</strong></p>
 
@@ -248,70 +247,82 @@ or
       
   
   </li>
+  <h2>Resource</h2>
+ <code>Youtube Playlist:</code></h4>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSVDhww92llY3CAnc_vUhsm&si=REPoAQ-_AAw-i8BA" rel="nofollow">here</a> <em></em>
+</li>
+</ul>
+ <br>
+
 
   <li>
     <h2>Fragments</h2>
     <p>
       <a href="https://www.youtube.com/watch?v=fEmS9vEUqTE">Lifecycle</a>
-     Dive deep into the fragment lifecycle.
     </p>
-    <p> <a href = "https://www.youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&si=vnq9KtRJfpdipru5"> Navigation Components:</a>  Learn to navigate between fragments using the Navigation Component.</p>
-    <p>Using the Navigation graph</p>
-    <p>Navigating between fragments</p>
-    <p>Using Drawer layout and Bottom Navigation</p>
-    <p>Using safe args</p>
-    <p>Watch this playlist from video no 261 to 271</p>
-  </li>
+    <p> <a href = "https://www.youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&si=vnq9KtRJfpdipru5"> Navigation Components:</a> 
+     <ul>
+      <li>     Learn to navigate between fragments using the Navigation Component.
+</li>
+      <li>Using the Navigation graph</li>
+      <li>Navigating between fragments</li>
+      <li>Using Drawer layout and Bottom Navigation</li>
+      <li>Using safe args</li>
+      <li>Watch this playlist from video no 261 to 271</li>
+     </ul>
+   
 
   <li>
-    <h2><a href="https://www.youtube.com/watch?si=eaPUYHrD7QR_e30x&v=orH4K6qBzvE&feature=youtu.be">ViewModel Configuration</a></h2>
+    <h2>ViewModel Configuration</h2>
     <p>
-      Configure ViewModel to manage UI-related data efficiently.
+    <a href="https://www.youtube.com/watch?si=eaPUYHrD7QR_e30x&v=orH4K6qBzvE&feature=youtu.be">  Configure ViewModel to manage UI-related data efficiently.</a>
     </p>
   </li>
 
   <li>
     <h2>LiveData</h2>
-    <p>Implement LiveData for observing and updating UI components.</p>
-    <p>Sources:
-      <a href="https://www.youtube.com/watch?si=eaPUYHrD7QR_e30x&v=orH4K6qBzvE&feature=youtu.be">Source 1</a>
-      <a href="https://www.youtube.com/watch?si=tQy137cr1br0wJXV&v=suC0OM5gGAA&feature=youtu.be">Source 2</a>
-    </p>
+    <p></p>
+
+<code>Implement LiveData for observing and updating UI components.</code></h4>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/watch?si=eaPUYHrD7QR_e30x&v=orH4K6qBzvE&feature=youtu.be"  rel="nofollow">source 1 </a></li>
+<li><a href="https://www.youtube.com/watch?si=tQy137cr1br0wJXV&v=suC0OM5gGAA&feature=youtu.be"  rel="nofollow">source 2</a></li>
+</ul>
+
   </li>
 
   <li>
-    <h2> <a href="https://www.youtube.com/watch?si=107qXZmGf1XKldB5&v=t6Sql3WMAnk&feature=youtu.be"> Retrofit </a> </h2>
+    <h2> Retrofit</h2>
     <p>
-     Learn how to make network requests using Retrofit for REST APIs.
+     <a href="https://www.youtube.com/watch?si=107qXZmGf1XKldB5&v=t6Sql3WMAnk&feature=youtu.be"> Learn how to make network requests using Retrofit for REST APIs.</a>
     </p>
   </li>
 
   <li>
     <h2>Basics of Coroutines</h2>
-    <p>Sources:
-      <a href="https://www.youtube.com/watch?v=9NyGOrztWjE&list=PLXjbGq0ERjFqGlzZFDMCHJA_PBvUIaIto">Source 1 </a>
-      <a href="https://www.youtube.com/watch?v=2QInrEaXyMo&list=PLSrm9z4zp4mE-o3sPq-PqzGHoFAIsQFI6">Source 2 </a>
-    </p>
-    <p>Introduction to Asynchronous Programming Coroutine Builders: Learn about common coroutine builders like launch and async.</p>
+    <p>Introduction to Asynchronous Programming Coroutine Builders</p>
     <p>Suspend Functions</p>
+   <p>Coroutine Dispatchers</p>
     <p>Structured Concurrency</p>
     <p>Cancellation and Timeouts</p>
     <p>Exception Handling</p>
   </li>
-
-  <li>
-    <h2>Coroutine Dispatchers</h2>
-    <p>Dispatcher Types: Learn about various dispatchers such as Dispatchers.IO, Dispatchers.Main, and Dispatchers.Default.</p>
-    <p>Switching Dispatchers: Understand how to switch between different dispatchers for concurrent tasks.</p>
-  </li>
+    <h2>Resources</h2>
+ <code>Youtube Playlist:</code></h4>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/watch?v=9NyGOrztWjE&list=PLXjbGq0ERjFqGlzZFDMCHJA_PBvUIaIto" rel="nofollow">source 1</a> <em></em>
+</li>
+ <li><a href="https://www.youtube.com/watch?v=2QInrEaXyMo&list=PLSrm9z4zp4mE-o3sPq-PqzGHoFAIsQFI6" rel="nofollow">source 2</a> <em></em>
+</li>
+</ul>
+ <br>
 
   <li>
     <h2>MVVM Architecture</h2>
     <p>Explore how to architect your Android app using the Model-View-ViewModel pattern.</p>
-    <p>Sources:
-      <a href="https://www.youtube.com/watch?v=-xTqfilaYow&pp=ygUNbXZ2bSBhbmRyb2lkIA%3D%3D">Source 1</a>
-    </p>
-    <p>Try to understand how this app built: <a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCRF8XiCRESq1IFFW8COlxYJ&si=0vGvLKI3UHDCSesl">Video Playlist</a></p>
+      <a href="https://www.youtube.com/watch?v=-xTqfilaYow&pp=ygUNbXZ2bSBhbmRyb2lkIA%3D%3D">check this</a>
+    <p>Try to understand how this app has been built: <a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCRF8XiCRESq1IFFW8COlxYJ&si=0vGvLKI3UHDCSesl">Video Playlist</a></p>
     <p>Article: <a href="https://www.linkedin.com/posts/ahmed-farouk-2b1899204_android-mvvm-ios-activity-6971177663654735872-FlQH?utm_source=share&utm_medium=member_desktop">MVVM Article</a></p>
   </li>
 
