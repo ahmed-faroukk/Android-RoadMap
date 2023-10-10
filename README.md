@@ -188,8 +188,18 @@ or
 <code>Android Basics: User Interface:</code></h4>
 <ul dir="auto">
 <li><a href="https://youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku"  rel="nofollow">Check this playlist</a> to video no. 42</li>
+</ul>
+<code>Data Binding</code></h4>
+<ul dir="auto">
+<li><a href="https://youtu.be/YQ9mGVOXXYA?si=cwVbJxE5fgPFqWC5"  rel="nofollow">source 1 </a></li>
+<li><a href="https://youtu.be/P2LZ-l5q0zM?si=oa5Q6SvJB23L-Ysr"  rel="nofollow">source 2</a></li>
+</ul>
+   
+
+
 <br>
 <br>
+
 
 
  
@@ -203,20 +213,40 @@ or
 
 <ol>
   <li>
-    <h2><a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSVDhww92llY3CAnc_vUhsm&si=REPoAQ-_AAw-i8BA">Android Basics </a></h2>
-    <p>Introduction to Android: Understand the basics of the Android ecosystem.</p>
-    <p>Activities:</p>
-    <p>Lifecycle: Master the lifecycle of Android activities.</p>
-    <p>Intents: Explore how to navigate between activities using intents.</p>
-    <p>Intent Filters: Understand how to handle implicit intents.</p>
-    <p>Android Components (services - BroadCasts - Content Provider)</p>
-    <p>Context: Understand the concept of Context and its various uses in Android.</p>
-    <p>Work Manager</p>
-    <p>Data Binding: Learn how to bind UI components to data sources efficiently.</p>
-    <p>Video Tutorials:
-      <a href="https://youtu.be/YQ9mGVOXXYA?si=cwVbJxE5fgPFqWC5">Video 1</a>
-      <a href="https://youtu.be/P2LZ-l5q0zM?si=oa5Q6SvJB23L-Ysr">Video 2</a>
-    </p>
+   <h2>Android Basics 
+   </h2><h5><a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSVDhww92llY3CAnc_vUhsm&si=REPoAQ-_AAw-i8BA">check this playlist </a></h5>
+
+  <p><strong>Activities:</strong></p>
+
+   <ul>
+    <li>
+         <p>Lifecycle</p>
+    </li>
+     <li>
+         <p>Intents</p>
+     </li>
+    <li>
+         <p>Intent Filters</p>
+    </li>
+
+   </ul>
+    <p><strong>Android Components</strong> (services - BroadCasts - Content Provider)</p>
+      <ul>
+    <li>
+         <p>services</p>
+    </li>
+     <li>
+         <p>BroadCasts</p>
+     </li>
+    <li>
+         <p>Content Provider</p>
+    </li>
+
+   </ul>
+    <p><strong>Context</strong></p>
+    <p><strong>Work Manager</strong></p>
+      
+  
   </li>
 
   <li>
