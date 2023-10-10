@@ -357,11 +357,7 @@ or
 
   <li>
     <h2>Dependency Injection with Hilt</h2>
-    <p>Sources:
-      <a href="https://www.youtube.com/watch?v=LHQp-mLQPnc">Source 1</a>
-      <a href="https://youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku">Source 2 (302 to 307)</a>
-    </p>
-    <p>Topics:
+    <p><strong>Topics:</strong>
       <ul>
         <li>Setting up Hilt in Android projects</li>
         <li>Using Hilt for dependency injection</li>
@@ -371,10 +367,18 @@ or
       </ul>
     </p>
   </li>
+  
+   <h2>Resource</h2>
+ <code>Youtube Playlist:</code></h4>
+<ul dir="auto">
+<li>      <a href="https://www.youtube.com/watch?v=LHQp-mLQPnc">Source 1</a>
+<li>      <a href="https://youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku">Source 2 (302 to 307)</a>
+</li>
+</ul>
+ <br>
 
   <li>
     <h2>Clean Architecture with MVVM</h2>
-    <p>Source: <a href="https://youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku">Source (309 to 319)</a></p>
     <p>Topics:
       <ul>
         <li>Separation of concerns and clean architecture principles</li>
@@ -386,6 +390,12 @@ or
       </ul>
     </p>
   </li>
+    <h2>Resource</h2>
+ <code>Youtube Playlist:</code></h4>
+<ul dir="auto">
+<li>       <a href="https://youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku">Source (309 to 319)</a>
+</ul>
+ <br>
 
   <li>
     <h2>Kotlin/Android Testing Playlists</h2>
