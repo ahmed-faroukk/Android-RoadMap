@@ -261,7 +261,7 @@ or
     <p>
       <a href="https://www.youtube.com/watch?v=fEmS9vEUqTE">Lifecycle</a>
     </p>
-    <p> <a href = "https://www.youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&si=vnq9KtRJfpdipru5"> Navigation Components:</a> 
+    <p> Navigation Components: <a href = "https://www.youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&si=vnq9KtRJfpdipru5"> Watch this playlist from video no 261 to 271</a> 
      <ul>
       <li>     Learn to navigate between fragments using the Navigation Component.
 </li>
@@ -269,7 +269,6 @@ or
       <li>Navigating between fragments</li>
       <li>Using Drawer layout and Bottom Navigation</li>
       <li>Using safe args</li>
-      <li>Watch this playlist from video no 261 to 271</li>
      </ul>
    
 
