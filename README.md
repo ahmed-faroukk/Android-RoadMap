@@ -46,81 +46,79 @@ Advanced advanced
 
 <h2>so why kotlin ...</h2>
 After Google I/O 2017 where Google announced first-class support for Kotlin on Android, Kotlin has become used by more and more Android developers and now it's used by over 60% of professional Android developers, for that each Android developer must learn it. <a href="https://developer.android.com/kotlin" rel="nofollow">Learn More</a>
-<h2>
-  content
-</h2>
-  <h3>Introduction
-</h3>
-<li>Hello World
-</li>
-<li>Functions
-</li>
-<li>Variables</em></li>
-<li>Null Safety
-</li>
-<li>Classes
-</li>
-<li>Generics
-</li>
-<li>Inheritance
-</li>
-<h3>
-  Control Flow
-</h3>
-<li>When
-</li>
-<li>Loops
-</li>
-<li>Ranges
-</em></li>
-<li>Equality Checks
-</li>
-<li>Conditional Expression
-</li>
+<table>
+  <tr>
+    <td>
+      <h2>Content</h2>
+    </td>
+    <td>
+  <h3>Introduction</h3>
+  <ul>
+    <li>Hello World</li>
+    <li>Functions</li>
+    <li>Variables</li>
+    <li>Null Safety</li>
+    <li>Classes</li>
+    <li>Generics</li>
+    <li>Inheritance</li>
+  </ul>
+</td>
 
-<h3>
-  Special Classes
-</h3>
-<li>Data Classes
-</li>
-<li>Enum Classes
-</li>
-<li>Sealed Classes
-</em></li>
-<li>Object Keyword
+   <td>
+  <h3>Control Flow</h3>
+  <ul>
+    <li>When</li>
+    <li>Loops</li>
+    <li>Ranges</li>
+    <li>Equality Checks</li>
+    <li>Conditional Expression</li>
+  </ul>
+</td>
 
-<h3>
- Functional
+    <td>
+  <h3>Special Classes</h3>
+  <ul>
+    <li>Data Classes</li>
+    <li>Enum Classes</li>
+    <li>Sealed Classes</li>
+    <li>Object Keyword</li>
+  </ul>
+</td>
 
-</h3>
-<li>Higher-Order Functions
-</li>
-<li>Lambda Functions
-</li>
-<li>Extension Functions and Properties
-</li>
-<h3>Collections
-</h3>
-<li>List
-</li>
-<li>Set
-</li>
-<li>Map
- </li>
-<li>filter
- </li>
-<li>map
-<h3>Scope Functions</h3>
-<li>let
+  <td>
+  <h3>Functional</h3>
+  <ul>
+    <li>Higher-Order Functions</li>
+    <li>Lambda Functions</li>
+    <li>Extension Functions and Properties</li>
+  </ul>
+</td>
 
-</li>
-<li>run
-</li>
-<li>with
- </li>
-<li>apply
- </li>
-<li>also</li>
+   <td>
+  <h3>Collections</h3>
+  <ul>
+    <li>List</li>
+    <li>Set</li>
+    <li>Map</li>
+    <li>filter</li>
+    <li>map</li>
+  </ul>
+</td>
+<td>
+  <h3>Scope Functions</h3>
+  <ul>
+    <li>let</li>
+    <li>run</li>
+    <li>with</li>
+    <li>apply</li>
+    <li>also</li>
+  </ul>
+</td>
+
+  </tr>
+
+</table>
+
 
 <h2>Resources</h2>
  <code>official Docs:</code></h4>
