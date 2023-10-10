@@ -74,8 +74,8 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
     <li>Conditional Expression</li>
   </ul>
 </td>
+   <td>
 
-    <td>
   <h3>Special Classes</h3>
   <ul>
     <li>Data Classes</li>
