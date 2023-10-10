@@ -53,6 +53,8 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
     </td>
     <td>
   <h3>Introduction</h3>
+     <hr width="100%" color="yellow" size="3">
+
   <ul>
     <li>Hello World</li>
     <li>Functions</li>
@@ -66,6 +68,8 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
 
    <td>
   <h3>Control Flow</h3>
+    <hr width="100%" color="yellow" size="3">
+
   <ul>
     <li>When</li>
     <li>Loops</li>
@@ -77,6 +81,8 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
    <td>
 
   <h3>Special Classes</h3>
+  <hr width="100%" color="yellow" size="3">
+
   <ul>
     <li>Data Classes</li>
     <li>Enum Classes</li>
@@ -87,6 +93,8 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
 
   <td>
   <h3>Functional</h3>
+   <hr width="100%" color="yellow" size="3">
+
   <ul>
     <li>Higher-Order Functions</li>
     <li>Lambda Functions</li>
@@ -96,6 +104,8 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
 
    <td>
   <h3>Collections</h3>
+    <hr width="100%" color="yellow" size="3">
+
   <ul>
     <li>List</li>
     <li>Set</li>
@@ -106,6 +116,8 @@ After Google I/O 2017 where Google announced first-class support for Kotlin on A
 </td>
 <td>
   <h3>Scope Functions</h3>
+ <hr width="100%" color="yellow" size="3">
+
   <ul>
     <li>let</li>
     <li>run</li>
