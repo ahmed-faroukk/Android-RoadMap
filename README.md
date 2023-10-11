@@ -29,7 +29,24 @@ Advanced advanced
 <div align="center"> <h1> 🔴 we will start with basic level</h1> </div>
 <hr width="100%" color="yellow" size="3">
 
+<h2>Start With Java (Optional)</h2>
+📋 Resources: <code>choose only one resource (Arabic or english)</code><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+<h3>Arabic</h3>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLQYjhn7xrRnaHRNU3xUspKQv1wspDJ28O" rel="nofollow">Java from zero</a></li>
+<li>Abdullah Almehmadi:
+<ol dir="auto">
+<li><a href="https://www.youtube.com/watch?v=3QC6Zpz3As4&amp;list=PL28DDB2DCF87BEE43" rel="nofollow">Java 101</a></li>
+<li><a href="https://www.youtube.com/watch?v=9w1jLen1lRU&amp;list=PL138BE19EA2405C94" rel="nofollow">Java 102</a></li>
+<li><a href="https://www.youtube.com/watch?v=d1b2-99QzEo&amp;list=PLA94A6FB67AB4CD0D" rel="nofollow">Java 103</a></li>
+<li><a href="https://www.youtube.com/watch?v=SjbXtRjavjA&amp;list=PLqmVQqNLdVv11bup4o0bRR4zxG2Gu05gX" rel="nofollow">Java 104</a></li>
+</ol>
+</li>
+<li><a href="https://www.youtube.com/watch?v=M3Na5luSx50&amp;list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk" rel="nofollow">OOP</a></li>
+</ul>
 
+<h3>English Crash course </h3>
+<a href="https://m.youtube.com/playlist?list=PLTTTcaxrixZT6v8k_QVSALXHX3KnaruuX" rel="nofollow">Check this</a>
 
 <ul>
 
