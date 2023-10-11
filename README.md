@@ -413,7 +413,6 @@ or
 
   <li>
     <h2>SOLID Principles</h2>
-    <p>Source: <a href="https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV">SOLID Principles Playlist</a></p>
     <p>Topics:
       <ul>
         <li>Single Responsibility Principle (SRP)</li>
@@ -424,10 +423,15 @@ or
       </ul>
     </p>
   </li>
+      <h2>Resource</h2>
+ <code>Youtube Playlist:</code></h4>
+<ul dir="auto">
+<li>      <a href="https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV">SOLID Principles Playlist</a>
+</ul>
+ <br>
 
   <li>
     <h2>Jetpack Compose Basics</h2>
-    <p>Source: <a href="https://youtube.com/playlist?list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc">Jetpack Compose Basics Playlist</a></p>
     <p>Topics:
       <ul>
         <li>Introduction to Jetpack Compose</li>
@@ -441,6 +445,12 @@ or
     </p>
   </li>
 </ul>
+  <h2>Resource</h2>
+ <code>Youtube Playlist:</code></h4>
+<ul dir="auto">
+<li>       <a href="https://youtube.com/playlist?list=PLEPx7DrqAqKC0PExagiPH64tzH6cAd5Rc">Jetpack Compose Basics Playlist</a>
+</ul>
+ <br>
 <h1>Remember, the journey in Android development is ongoing. Keep seeking knowledge and pushing your boundaries; it's the key to unlocking endless opportunities in this ever-evolving field. 🌟📚💡</h1>
 
 
