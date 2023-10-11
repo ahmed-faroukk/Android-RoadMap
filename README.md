@@ -28,9 +28,8 @@ Advanced advanced
  <hr width="100%" color="yellow" size="3">
 <div align="center"> <h1> 🔴 we will start with basic level</h1> </div>
 <hr width="100%" color="yellow" size="3">
-
 <h2>Start With Java (Optional)</h2>
-📋 Resources: <code>choose only one resource (Arabic or english)</code><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+📋 Resources: <code>choose only one resource (Arabic or english)</code>
 <h3>Arabic</h3>
 <ul dir="auto">
 <li><a href="https://www.youtube.com/playlist?list=PLQYjhn7xrRnaHRNU3xUspKQv1wspDJ28O" rel="nofollow">Java from zero</a></li>
@@ -48,6 +47,7 @@ Advanced advanced
 <h3>English Crash course </h3>
 <a href="https://m.youtube.com/playlist?list=PLTTTcaxrixZT6v8k_QVSALXHX3KnaruuX" rel="nofollow">Check this</a>
 
+
 <ul>
 
 <li>
@@ -61,6 +61,7 @@ Advanced advanced
 
 <h2>so why kotlin ...</h2>
 After Google I/O 2017 where Google announced first-class support for Kotlin on Android, Kotlin has become used by more and more Android developers and now it's used by over 60% of professional Android developers, for that each Android developer must learn it. <a href="https://developer.android.com/kotlin" rel="nofollow">Learn More</a>
+
 <table>
   <tr>
     <td>
