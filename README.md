@@ -31,8 +31,6 @@ Advanced advanced
 
 
 
-
-
 <ul>
 
 <li>
@@ -40,7 +38,7 @@ Advanced advanced
   1- kotlin
  </h1>
  <p></p> 
-  <img src="https://github.com/ahmed-faroukk/Android-RoadMap/assets/72602749/a9eaf84d-d37a-42d7-b7b9-f21c37fb7af8" alt="Android Cover" style="max-width: 100%;"></a>
+  <img src="https://github.com/ahmed-faroukk/Android-RoadMap/assets/72602749/8978001f-3620-46d0-9a65-93aa51b2e0ef" alt="Android Cover" style="max-width: 100%"></a>
 
 </li>
 
@@ -214,6 +212,7 @@ or
 <ol>
   <li>
    <h2>Android Basics </h2>
+  <img src="https://github.com/ahmed-faroukk/Android-RoadMap/assets/72602749/86a24470-d82a-4d73-9310-da03f38d3cbc" alt="Android Cover" style="max-width: 100%"></a>
 
   <p><strong>Activities:</strong></p>
 
