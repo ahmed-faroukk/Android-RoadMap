@@ -495,7 +495,7 @@ or
 </ul>
  <br>
 <h1>Remember, the journey in Android development is ongoing. Keep seeking knowledge and pushing your boundaries; it's the key to unlocking endless opportunities in this ever-evolving field. 🌟📚💡</h1>
-<h5>feel free to contact us : </h5>
+<h2>feel free to contact us : </h2>
  <li> <a href="https://www.linkedin.com/in/ahmed-farouk-2b1899204/" rel="nofollow">Me</a></li>
  <li><a href="https://www.linkedin.com/in/shehabmohammed/" rel="nofollow">Shehab Mohammed</a></li>
 <li><a href="https://www.linkedin.com/in/bassam-yassin-3b8a421b8/" rel="nofollow">Bassam Yassin</a>
