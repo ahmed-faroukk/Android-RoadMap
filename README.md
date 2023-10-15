@@ -210,7 +210,32 @@ or
 <li><a href="https://youtu.be/YQ9mGVOXXYA?si=cwVbJxE5fgPFqWC5"  rel="nofollow">source 1 </a></li>
 <li><a href="https://youtu.be/P2LZ-l5q0zM?si=oa5Q6SvJB23L-Ysr"  rel="nofollow">source 2</a></li>
 </ul>
-   
+
+   <h2>Android Basics Part 1 </h2>
+  <img src="https://github.com/ahmed-faroukk/Android-RoadMap/assets/72602749/86a24470-d82a-4d73-9310-da03f38d3cbc" alt="Android Cover" style="max-width: 100%"></a>
+
+  <p><strong>Activities:</strong></p>
+
+   <ul>
+    <li>
+         <p>Lifecycle</p>
+    </li>
+     <li>
+         <p>Intents</p>
+     </li>
+    <li>
+         <p>Intent Filters</p>
+    </li>
+  
+  </li>
+  <h2>Resource</h2>
+ <code>Youtube Playlist:</code></h4>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSVDhww92llY3CAnc_vUhsm&si=REPoAQ-_AAw-i8BA" rel="nofollow">in this playlist</a> video no 1 and no 6 only <em></em>
+</li>
+</ul>
+ <br>
+
 
 
 <br>
@@ -229,7 +254,7 @@ or
 
 <ol>
   <li>
-   <h2>Android Basics </h2>
+   <h2>Android Basics Part 2 </h2>
   <img src="https://github.com/ahmed-faroukk/Android-RoadMap/assets/72602749/86a24470-d82a-4d73-9310-da03f38d3cbc" alt="Android Cover" style="max-width: 100%"></a>
 
   <p><strong>Activities:</strong></p>
