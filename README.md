@@ -235,8 +235,36 @@ or
 </li>
 </ul>
  <br>
+  <li>
+    <h2>Fragments</h2>
+    <p>
+     first we will start with 
+      <a href="https://www.youtube.com/watch?v=fEmS9vEUqTE">Lifecycle</a>
+    </p>
+    <p> Navigation Components: <a href = "https://www.youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&si=vnq9KtRJfpdipru5"> Watch this playlist from video no 261 to 271</a> 
+     <ul>
+      <li>     Learn to navigate between fragments using the Navigation Component.
+</li>
+      <li>Using the Navigation graph</li>
+      <li>Navigating between fragments</li>
+      <li>Using Drawer layout and Bottom Navigation</li>
+      <li>Using safe args</li>
+     </ul>
 
 
+  <li>
+    <h2>RecyclerView</h2>
+    <p>
+      <a href="https://www.youtube.com/watch?v=HtwDXRWjMcU&t=708s)">watch this video</a>
+    </p>
+  </li>
+
+  <li>
+    <h2>SAVING DATA IN SHARED PREFERENCES </h2>
+    <p>
+      <a href="https://www.youtube.com/watch?v=wtpRp2IpCSo">watch this video</a>
+    </p>
+  </li>
 
 <br>
 <br>
@@ -257,21 +285,7 @@ or
    <h2>Android Basics Part 2 </h2>
   <img src="https://github.com/ahmed-faroukk/Android-RoadMap/assets/72602749/86a24470-d82a-4d73-9310-da03f38d3cbc" alt="Android Cover" style="max-width: 100%"></a>
 
-  <p><strong>Activities:</strong></p>
-
-   <ul>
-    <li>
-         <p>Lifecycle</p>
-    </li>
-     <li>
-         <p>Intents</p>
-     </li>
-    <li>
-         <p>Intent Filters</p>
-    </li>
-
-   </ul>
-    <p><strong>Android Components</strong> (services - BroadCasts - Content Provider)</p>
+   <p><strong>Android Components</strong> (services - BroadCasts - Content Provider)</p>
       <ul>
     <li>
          <p>services</p>
@@ -292,26 +306,13 @@ or
   <h2>Resource</h2>
  <code>Youtube Playlist:</code></h4>
 <ul dir="auto">
-<li><a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSVDhww92llY3CAnc_vUhsm&si=REPoAQ-_AAw-i8BA" rel="nofollow">here</a> <em></em>
+<li><a href="https://www.youtube.com/playlist?list=PLQkwcJG4YTCSVDhww92llY3CAnc_vUhsm&si=REPoAQ-_AAw-i8BA" rel="nofollow">this playlist except video no 1 and no 6 </a> <em></em>
 </li>
 </ul>
  <br>
 
 
-  <li>
-    <h2>Fragments</h2>
-    <p>
-      <a href="https://www.youtube.com/watch?v=fEmS9vEUqTE">Lifecycle</a>
-    </p>
-    <p> Navigation Components: <a href = "https://www.youtube.com/playlist?list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&si=vnq9KtRJfpdipru5"> Watch this playlist from video no 261 to 271</a> 
-     <ul>
-      <li>     Learn to navigate between fragments using the Navigation Component.
-</li>
-      <li>Using the Navigation graph</li>
-      <li>Navigating between fragments</li>
-      <li>Using Drawer layout and Bottom Navigation</li>
-      <li>Using safe args</li>
-     </ul>
+
    
 
   <li>
