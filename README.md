@@ -313,6 +313,16 @@ or
 
 
 
+  <li>
+    <h2>Notifications in Android</h2>
+    <p>
+    <a href="https://www.youtube.com/watch?v=LP623htmWcI&t=596s"> Local Notifications in Android</a>
+    </p>
+      <p>
+    <a href="https://www.youtube.com/watch?v=_Z2S63O-1HE"> Schedule Local Notifications </a>
+    </p>
+  </li>
+
    
 
   <li>
